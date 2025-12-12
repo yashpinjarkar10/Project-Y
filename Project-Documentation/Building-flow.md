@@ -14,3 +14,14 @@
 — Create a new branck
 — Create a new
 - Review & merge
+
+03 setup
+- setup tRPc VII
+- Create a procedure Prisma
+- Explore tRPC client—sue
+- Explore tRPC server-side
+— Explore tRPC server + client (prefeck)
+— Pusk to GitHub
+— Create a new branch
+— Create a new
+- Review & merge
